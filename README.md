@@ -8,11 +8,13 @@ Provide a brief overview of the session:
 - **Date & Time:** [1-4 July 2026]
 - **Location:** [University of London - London, UK]
 
+---
 
 ## 📝 Description
 Speculative Design (SD) and Critical Design (CD) are design approaches that aim to provoke thought, imagine possible near and far futures, and question the values, norms and socio-technical implications embedded into technology designs. Speculative and Critical Design methods include artefact prototyping, design fictions, design probes, and creative methods such as sketching and performance art. In this special session, we invite authors to submit full papers that imagine speculative “what-if” futures of human-robot interaction, challenge assumptions of HRI, and provoke discussion about desirable and undesirable human-robot futures. We are motivated by the fact that Speculative Design and Critical Design approaches are currently underutilised in HRI research, and we believe that these approaches can enable creative approaches and critical conversations in the field, reflecting on where HRI is headed.
 We welcome submissions that explore these topics through various approaches and contributions. Specifically, we encourage papers that treat Speculative Design and/or Critical Design as a primary research lens, where the core idea or finding is rooted in speculative practice. We also invite works that employ these methods as secondary strategies to achieve another objective, such as framing an HRI problem or exploring ethical implications. Furthermore, we invite the submission of diverse manuscript types, including Theoretical and Conceptual Studies, Empirical and Experimental Papers, and Pre-validated Proposals and Frameworks that offer a foundation for future work in this area. We invite proposals focused on the documentation of Speculative Design and Critical Design artefacts, which include critical discussion, implications for the field, or empirical, evaluative, or methodological 
 
+---
 
 ## 📚 List of topics (*but not limited to)
 * Works applying methods including design fictions, speculative prototyping, design probes, performance-based approaches, and other imaginative and creative approaches
@@ -30,6 +32,8 @@ We welcome submissions that explore these topics through various approaches and 
 * Information ecosystems, mis- and disinformation 
 * Robots in arts and as artists 
 
+---
+
 ## Envisioned Participants
 We invite participants that span across both HRI research and creative practice communities. Participants will both creatively explore future human–robot relationships using speculative methods, and critically interrogate them. We therefore welcome researchers and critical scholars, but also designers, technologists, and artists who are actively engaging with or particularly interested in speculative, design-led, creative methodologies.
 
@@ -44,7 +48,7 @@ We invite participants that span across both HRI research and creative practice 
 **Affiliation:** University of X  
 **Bio:** Short professional bio (research interests, notable achievements, etc.).  
 
----
+
 
 ### Prof. John Smith
 ![John Smith](images/john_smith.jpg)
