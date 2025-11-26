@@ -30,16 +30,33 @@ We welcome submissions that explore these topics through various approaches and 
 * Information ecosystems, mis- and disinformation 
 * Robots in arts and as artists 
 
+## Envisioned Participants
+We invite participants that span across both HRI research and creative practice communities. Participants will both creatively explore future human–robot relationships using speculative methods, and critically interrogate them. We therefore welcome researchers and critical scholars, but also designers, technologists, and artists who are actively engaging with or particularly interested in speculative, design-led, creative methodologies.
 
 
 ---
 
 ## 👥 Organizers & Authors
+
+<!---
+### Summary
 | Name | Affiliation | Role |
 |------|-------------|------|
-| Dr. Jane Doe | University of X | Session Chair |
+| Minja Axelsson | University of Cambridge | CFI and CHIA
+| Daniel Tozadore| UCL |
 | Prof. John Smith | Institute Y | Co-Chair |
 | [Add more as needed] |
+--->
+
+
+| Picture | Name | Affiliation | Bio |
+|---------|------|-------------|-----|
+| ![Organizer 1](images/organizer1.jpg) |  **Minja Axelsson** | University of Cambridge, CFI and CHIA | Dr. Minja Axelsson is a postdoctoral researcher. She is a Visiting Scholar at the Leverhulme Centre for the Future of Intelligence, and a Teaching Fellow at the Centre of Human-Inspired AI, at the University of Cambridge. She researches the design and ethics of social robots and social AI. She previously completed her PhD at the Affective Intelligence and Robotics Lab at Cambridge, and was a visiting PhD student at MIT Media Lab. |
+| ![Organizer 2](images/organizer2.jpg) | **Daniel Tozadore** | University College London | Dr. Daniel Tozadore is a Lecturer in Robotics and Artificial Intelligence at University College London (UCL), specialized in Human-Robot Interaction, adaptive systems, and educational technologies. His research focuses on designing intelligent systems that support learning, with particular interest in social robots, explainable AI, and user-centred design. Daniel has led and contributed to interdisciplinary projects that bridge robotics, education, and cognitive science. |
+| ![Organizer 3](images/organizer3.jpg) | **Malak Sadek** | University of Cambridge, CHIA | Malak's bio. |
+| ![Organizer 4](images/organizer4.jpg) | **Lea Luka Sikau** | TO FILL | Lea's bio. |
+
+
 
 ---
 
@@ -64,11 +81,9 @@ Place all speaker images in an `images/` folder and reference them as shown abov
 ---
 
 ## 🔗 Extra Information
-- [Conference Website](https://conference-website.com)
-- [Registration Link](https://registration-link.com)
+- [Conference Website]([https://conference-website.com](https://icsr2026.uk/special-sessions/ ))
 - [Call for Papers](https://cfp-link.com)
 - Contact: [email@example.com]
 
 ---
 
-## 📂 Repository Structure
