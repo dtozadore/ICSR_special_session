@@ -1,9 +1,9 @@
 
-# Special Session: [Session Title]
+# Special Session: Speculative Design and Creative Critique for HRI
 
 ## 📄 Summary
 Provide a brief overview of the session:
-- **Topic:** [Main theme or focus]
+- **Topic:** [LOREM ISPUM ]
 - **Objective:** [What attendees will learn or discuss]
 - **Date & Time:** [Conference date and session time]
 - **Location:** [Venue or virtual link]
