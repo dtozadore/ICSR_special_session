@@ -3,10 +3,10 @@
 
 ## 📄 Summary
 Provide a brief overview of the session:
-- **Topic:** [LOREM ISPUM ]
-- **Objective:** [What attendees will learn or discuss]
-- **Date & Time:** [Conference date and session time]
-- **Location:** [Venue or virtual link]
+- **Topic:** [Speculative Design and Creative Critique for HRI ]
+- **Objective:** [...]
+- **Date & Time:** [1-4 July 2026]
+- **Location:** [University of London - London, UK]
 
 
 ### Description
