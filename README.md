@@ -1,1 +1,50 @@
-# ICSR_special_session
+
+# Special Session: Speculative Design and Creative Critique for HRI
+
+## 📄 Summary
+Provide a brief overview of the session:
+- **Topic:** [LOREM ISPUM ]
+- **Objective:** [What attendees will learn or discuss]
+- **Date & Time:** [Conference date and session time]
+- **Location:** [Venue or virtual link]
+
+---
+
+## 👥 Organizers & Authors
+| Name | Affiliation | Role |
+|------|-------------|------|
+| Dr. Jane Doe | University of X | Session Chair |
+| Prof. John Smith | Institute Y | Co-Chair |
+| [Add more as needed] |
+
+---
+
+## 📝 Speaker Bios
+### Dr. Jane Doe
+![Jane Doe](images/jane_doe.jpg)
+**Affiliation:** University of X  
+**Bio:** Short professional bio (research interests, notable achievements, etc.).  
+
+---
+
+### Prof. John Smith
+![John Smith](images/john_smith.jpg)
+**Affiliation:** Institute Y  
+**Bio:** Short professional bio.
+
+---
+
+## 📷 Pictures
+Place all speaker images in an `images/` folder and reference them as shown above.
+
+---
+
+## 🔗 Extra Information
+- [Conference Website](https://conference-website.com)
+- [Registration Link](https://registration-link.com)
+- [Call for Papers](https://cfp-link.com)
+- Contact: [email@example.com]
+
+---
+
+## 📂 Repository Structure
