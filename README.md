@@ -1,5 +1,5 @@
 
-# Special Session: Speculative and Creative Approaches in HRI
+# Speculative and Creative Approaches in HRI: Special Session at ICSR 2026
 
 <!--
 ## 📄 Summary
