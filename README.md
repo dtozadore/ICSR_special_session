@@ -1,12 +1,14 @@
 
-# Special Session: Speculative Design and Creative Critique for HRI
+# Special Session: Speculative and Creative Approaches in HRI
 
+<!--
 ## 📄 Summary
 Provide a brief overview of the session:
 - **Topic:** [Speculative Design and Creative Critique for HRI ]
 - **Objective:** [...]
 - **Date & Time:** [1-4 July 2026]
 - **Location:** [University of London - London, UK]
+-->
 
 ---
 
@@ -36,13 +38,13 @@ We are motivated by the fact that speculative and creative approaches are curren
 
 ---
 
-## Envisioned Participants
+## 👥 Envisioned Participants
 We invite participants that span across both HRI research and creative practice communities. Participants will both creatively explore future human–robot relationships using speculative methods, and critically interrogate them. We therefore welcome researchers and critical scholars, but also designers, technologists, and artists who are actively engaging with or particularly interested in speculative, design-led, creative methodologies.
 
 
 ---
 
-## Works and Authors
+## 🎨 Publication list
 
 - **Choreographing Trash Cans: On Speculative Futures of Weak Robots in Public Spaces**  
   *Authors:* M Axelsson, LL Sikau  
@@ -71,7 +73,7 @@ We invite participants that span across both HRI research and creative practice 
 ---
 
 
-## 👥 Organizers
+## 🛠️ Organizers
 
 <!---
 ### Summary
