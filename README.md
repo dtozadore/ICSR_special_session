@@ -96,16 +96,17 @@ We invite participants that span across both HRI research and creative practice 
 
 
 
----
+<!---
 
+---
 ## 📷 Pictures
 Place all speaker images in an `images/` folder and reference them as shown above.
-
+--->
 ---
 
 ## 🔗 Extra Information
-- [Conference Website]([https://conference-website.com](https://icsr2026.uk/special-sessions/ ))
-- [Call for Papers](https://cfp-link.com)
+- Conference Website: [https://conference-website.com](https://icsr2026.uk/special-sessions/](https://conference-website.com](https://icsr2026.uk/special-sessions/ )
+- Call for Papers: [https://cfp-link.com](https://cfp-link.com)
 - Contact: [email@example.com](speculativecreativehri@gmail.com)
 
 ---
