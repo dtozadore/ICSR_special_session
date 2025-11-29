@@ -42,20 +42,31 @@ We invite participants that span across both HRI research and creative practice 
 
 ---
 
+## Works and Authors
 
+- **Choreographing Trash Cans: On Speculative Futures of Weak Robots in Public Spaces**  
+  *Authors:* M Axelsson, LL Sikau  
+  *Venue:* 38th International BCS Human-Computer Interaction Conference, pp. 309-313  
 
-## 📝 Speaker Bios
-### Dr. Jane Doe
-![Jane Doe](images/jane_doe.jpg)
-**Affiliation:** University of X  
-**Bio:** Short professional bio (research interests, notable achievements, etc.).  
+- **Speculative Design of Equitable Robotics: Queer Fictions and Futures**  
+  *Author:* M Axelsson  
+  *Venue:* 38th International BCS Human-Computer Interaction Conference, pp. 304-308  
 
+- **Teachers, take care of the essential. The rest is story: Using LLM and social robots for content approaching by storytelling**  
+  *Authors:* D Tozadore, AM Rusu  
+  *Venue:* 2024 33rd IEEE International Conference on Robot and Human Interactive …  
 
+- **Designing Value-Sensitive AI: A Critical Review and Recommendations for Socio-Technical Design Processes**  
+  *Authors:* M Sadek, RA Calvo, C Mougenot  
+  *Venue:* AI and Ethics, Vol. 4 (4), pp. 949-967  
 
-### Prof. John Smith
-![John Smith](images/john_smith.jpg)
-**Affiliation:** Institute Y  
-**Bio:** Short professional bio.
+- **Who Defines AI’s Future? The Role of Harmful AI Narratives**  
+  *Authors:* E Kallina, M Sadek  
+
+- **REHEARSING TIME**  
+  *Author:* Sikau LL  
+  *Venue:* Tempo, 2024; 78(308):46-54  
+  *DOI:* [10.1017/S0040298223000979](https://doi.org/10.54103/sss18841)
 
 ---
 
