@@ -91,7 +91,7 @@ We invite participants that span across both HRI research and creative practice 
 ## 🛠️ Organisers
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/organizer1.jpg" alt="Minja Axelsson" style="width:150px; margin-right:15px; border-radius:8px;" />
+  <img src="images/Minja.jpg" alt="Minja Axelsson" style="width:150px; margin-right:15px; border-radius:8px;" />
   <div>
     <h3>Minja Axelsson</h3>
     <p><strong>Affiliation:</strong> University of Cambridge, CFI and CHIA</p>
