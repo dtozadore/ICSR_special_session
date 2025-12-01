@@ -138,6 +138,8 @@ We invite participants that span across both HRI research and creative practice 
 ## 📷 Pictures
 Place all speaker images in an `images/` folder and reference them as shown above.
 --->
+
+
 ---
 
 ## 🔗 Extra Information
