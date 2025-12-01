@@ -112,7 +112,7 @@ We invite participants that span across both HRI research and creative practice 
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/organizer3.jpg" alt="Malak Sadek" style="width:150px; margin-right:15px; border-radius:8px;" />
+  <img src="images/Malak.jpg" alt="Malak Sadek" style="width:150px; margin-right:15px; border-radius:8px;" />
   <div>
     <h3>Malak Sadek</h3>
     <p><strong>Affiliation:</strong> University of Cambridge, CHIA</p>
