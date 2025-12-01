@@ -99,7 +99,6 @@ We invite participants that span across both HRI research and creative practice 
   </div>
 </div>
 
----
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/Tozadore-Profile.jpg" alt="Daniel Tozadore" style="width:150px; margin-right:15px; border-radius:8px;" />
@@ -110,7 +109,7 @@ We invite participants that span across both HRI research and creative practice 
   </div>
 </div>
 
----
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/organizer3.jpg" alt="Malak Sadek" style="width:150px; margin-right:15px; border-radius:8px;" />
@@ -121,7 +120,7 @@ We invite participants that span across both HRI research and creative practice 
   </div>
 </div>
 
----
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/organizer4.jpg" alt="Lea Luka Sikau" style="width:150px; margin-right:15px; border-radius:8px;" />
