@@ -76,14 +76,6 @@ We invite participants that span across both HRI research and creative practice 
 ## 🛠️ Organizers
 
 <!---
-### Summary
-| Name | Affiliation | Role |
-|------|-------------|------|
-| Minja Axelsson | University of Cambridge | CFI and CHIA
-| Daniel Tozadore| UCL |
-| Prof. John Smith | Institute Y | Co-Chair |
-| [Add more as needed] |
---->
 
 
 | Picture | Name | Affiliation | Bio |
@@ -92,8 +84,37 @@ We invite participants that span across both HRI research and creative practice 
 | ![Organizer 2](images/Tozadore-Profile.jpg) | **Daniel Tozadore** | University College London | Dr. Daniel Tozadore is a Lecturer in Robotics and Artificial Intelligence at University College London (UCL), specialized in Human-Robot Interaction, adaptive systems, and educational technologies. His research focuses on designing intelligent systems that support learning, with particular interest in social robots, explainable AI, and user-centred design. Daniel has led and contributed to interdisciplinary projects that bridge robotics, education, and cognitive science. |
 | ![Organizer 3](images/organizer3.jpg) | **Malak Sadek** | University of Cambridge, CHIA |Dr. Malak Sadek is MPhil Deputy Director and Teaching Associate at the Centre for Human Inspired AI (CHIA) at Cambridge University. She holds a PhD in Design Engineering from Imperial College London. Malak’s research explores using collaborative design methods for creating conversational AI systems that are better aligned with human values. Malak also has several years of professional experience working with corporations, institutes, and NGOs to create more human-centred AI. These include two FAANGs, UN Women UK, The Alan Turing Institute, Bold Insight, and AIxDesign. |
 | ![Organizer 4](images/organizer4.jpg) | **Lea Luka Sikau** | Center for Art and Media Karlsruhe | Dr. Lea Luka Sikau (she/her) is an artist-researcher who situates herself at the intersection of opera and multisensory art. Having received a doctoral degree from the University of Cambridge for her research on posthumanism, rehearsal ethnography and new opera, she became a Fellow at Harvard University’s Mellon School for Performance Research and was awarded with the Bavarian Cultural Award for her research at MIT’s Center for Art, Science and Technology. She has worked with Romeo Castellucci, Marina Abramović and Rimini Protokoll. Within her duo Sikau/Pubalova, Dr. Sikau showcased solo exhibitions at Science Gallery Bangalore, Kunsthalle Prague and LABoral Centro de Arte, commissioned by the European Commission, S+T+ARTS, Ars Electronica Festival, Transmediale, Ensemble Modern and Climate Week NYC. As the Curator for Music and Sound Art at the ZKM | Hertzlab, she shapes the sonic profile of artistic research and programming, responsible for the artist residency programs and the performance series at the ambisonics sound dome.  |
+--->
 
 
+
+## 🛠️ Organisers
+
+### ![Organizer 1](images/organizer1.jpg) Minja Axelsson
+**Affiliation:** University of Cambridge, CFI and CHIA  
+**Bio:**  
+Dr. Minja Axelsson is a postdoctoral researcher. She is a Visiting Scholar at the Leverhulme Centre for the Future of Intelligence, and a Teaching Fellow at the Centre of Human-Inspired AI, at the University of Cambridge. She researches the design and ethics of social robots and social AI. She previously completed her PhD at the Affective Intelligence and Robotics Lab at Cambridge, and was a visiting PhD student at MIT Media Lab.
+
+---
+
+### ![Organizer 2](images/Tozadore-Profile.jpg) Daniel Tozadore
+**Affiliation:** University College London  
+**Bio:**  
+Dr. Daniel Tozadore is a Lecturer in Robotics and Artificial Intelligence at University College London (UCL), specialized in Human-Robot Interaction, adaptive systems, and educational technologies. His research focuses on designing intelligent systems that support learning, with particular interest in social robots, explainable AI, and user-centred design. Daniel has led and contributed to interdisciplinary projects that bridge robotics, education, and cognitive science.
+
+---
+
+### ![Organizer 3](images/organizer3.jpg) Malak Sadek
+**Affiliation:** University of Cambridge, CHIA  
+**Bio:**  
+Dr. Malak Sadek is MPhil Deputy Director and Teaching Associate at the Centre for Human Inspired AI (CHIA) at Cambridge University. She holds a PhD in Design Engineering from Imperial College London. Malak’s research explores using collaborative design methods for creating conversational AI systems that are better aligned with human values. Malak also has several years of professional experience working with corporations, institutes, and NGOs to create more human-centred AI. These include two FAANGs, UN Women UK, The Alan Turing Institute, Bold Insight, and AIxDesign.
+
+---
+
+### ![Organizer 4](images/organizer4.jpg) Lea Luka Sikau
+**Affiliation:** Center for Art and Media Karlsruhe  
+**Bio:**  
+Dr. Lea Luka Sikau (she/her) is an artist-researcher who situates herself at the intersection of opera and multisensory art. Having received a doctoral degree from the University of Cambridge for her research on posthumanism, rehearsal ethnography and new opera, she became a Fellow at Harvard University’s Mellon School for Performance Research and was awarded with the Bavarian Cultural Award for her research at MIT’s Center for Art, Science and Technology. She has worked with Romeo Castellucci, Marina Abramović and Rimini Protokoll. Within her duo Sikau/Pubalova, Dr. Sikau showcased solo exhibitions at Science Gallery Bangalore, Kunsthalle Prague and LABoral Centro de Arte, commissioned by the European Commission, S+T+ARTS, Ars Electronica Festival, Transmediale, Ensemble Modern and Climate Week NYC. As the Curator for Music and Sound Art at the ZKM | Hertzlab, she shapes the sonic profile of artistic research and programming, responsible for the artist residency programs and the performance series at the ambisonics sound dome.
 
 
 <!---
