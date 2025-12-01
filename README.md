@@ -91,7 +91,7 @@ We invite participants that span across both HRI research and creative practice 
 ## 🛠️ Organisers
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/organizer1.jpg" alt="Minja Axelsson" style="width:150px; margin-right:15px; border-radius:8px;">
+  <img src="images/organizer1.jpg" alt="Minja Axelsson" style="width:150px; margin-right:15px; border-radius:8px;" />
   <div>
     <h3>Minja Axelsson</h3>
     <p><strong>Affiliation:</strong> University of Cambridge, CFI and CHIA</p>
@@ -102,11 +102,33 @@ We invite participants that span across both HRI research and creative practice 
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/Tozadore-Profile.jpg" alt="Daniel Tozadore" style="width:150px; margin-right:15px; border-radius:8px;">
+  <img src="images/Tozadore-Profile.jpg" alt="Daniel Tozadore" style="width:150px; margin-right:15px; border-radius:8px;" />
   <div>
     <h3>Daniel Tozadore</h3>
     <p><strong>Affiliation:</strong> University College London</p>
     <p><strong>Bio:</strong> Dr. Daniel Tozadore is a Lecturer in Robotics and Artificial Intelligence at University College London (UCL), specialized in Human-Robot Interaction, adaptive systems, and educational technologies. His research focuses on designing intelligent systems that support learning, with particular interest in social robots, explainable AI, and user-centred design. Daniel has led and contributed to interdisciplinary projects that bridge robotics, education, and cognitive science.</p>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/organizer3.jpg" alt="Malak Sadek" style="width:150px; margin-right:15px; border-radius:8px;" />
+  <div>
+    <h3>Malak Sadek</h3>
+    <p><strong>Affiliation:</strong> University of Cambridge, CHIA</p>
+    <p><strong>Bio:</strong> Dr. Malak Sadek is MPhil Deputy Director and Teaching Associate at the Centre for Human Inspired AI (CHIA) at Cambridge University. She holds a PhD in Design Engineering from Imperial College London. Malak’s research explores using collaborative design methods for creating conversational AI systems that are better aligned with human values. Malak also has several years of professional experience working with corporations, institutes, and NGOs to create more human-centred AI. These include two FAANGs, UN Women UK, The Alan Turing Institute, Bold Insight, and AIxDesign.</p>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/organizer4.jpg" alt="Lea Luka Sikau" style="width:150px; margin-right:15px; border-radius:8px;" />
+  <div>
+    <h3>Lea Luka Sikau</h3>
+    <p><strong>Affiliation:</strong> Center for Art and Media Karlsruhe</p>
+    <p><strong>Bio:</strong> Dr. Lea Luka Sikau (she/her) is an artist-researcher who situates herself at the intersection of opera and multisensory art. Having received a doctoral degree from the University of Cambridge for her research on posthumanism, rehearsal ethnography and new opera, she became a Fellow at Harvard University’s Mellon School for Performance Research and was awarded with the Bavarian Cultural Award for her research at MIT’s Center for Art, Science and Technology. She has worked with Romeo Castellucci, Marina Abramović and Rimini Protokoll. Within her duo Sikau/Pubalova, Dr. Sikau showcased solo exhibitions at Science Gallery Bangalore, Kunsthalle Prague and LABoral Centro de Arte, commissioned by the European Commission, S+T+ARTS, Ars Electronica Festival, Transmediale, Ensemble Modern and Climate Week NYC. As the Curator for Music and Sound Art at the ZKM | Hertzlab, she shapes the sonic profile of artistic research and programming, responsible for the artist residency programs and the performance series at the ambisonics sound dome.</p>
   </div>
 </div>
 
