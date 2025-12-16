@@ -110,7 +110,7 @@ We invite participants that span across both HRI research and creative practice 
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/organizer4.jpg" alt="Lea Luka Sikau" style="width:150px; margin-right:15px; border-radius:8px;" />
+  <img src="images/Lea_luka.jpeg" alt="Lea Luka Sikau" style="width:150px; margin-right:15px; border-radius:8px;" />
   <div>
     <h3>Lea Luka Sikau</h3>
     <p><strong>Affiliation:</strong> Center for Art and Media Karlsruhe</p>
