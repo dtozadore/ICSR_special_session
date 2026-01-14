@@ -1,6 +1,8 @@
 
 # Speculative and Creative Approaches in HRI: Special Session at ICSR 2026
 
+<img src="images/cropped-ICSR-2026-scaled-1.jpg" alt="Conference Logo" style="width:150px; margin-right:15px; border-radius:8px;" />
+
 <!--
 ## 📄 Summary
 Provide a brief overview of the session:
