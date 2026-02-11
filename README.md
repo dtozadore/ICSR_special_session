@@ -133,7 +133,7 @@ Place all speaker images in an `images/` folder and reference them as shown abov
 
 ## 🔗 Extra Information
 - Conference Website: [https://icsr2026.uk/](https://icsr2026.uk/)
-- Call for Papers: [https://icsr2026.uk/calls/#RegularPaper](https://icsr2026.uk/calls/#RegularPaper)
+- Call for Papers: [https://icsr2026.uk/calls/](https://icsr2026.uk/calls/)
 - Contact: [speculativecreativehri@gmail.com](speculativecreativehri@gmail.com)
 
 ---
