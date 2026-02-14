@@ -1,7 +1,5 @@
 
-# Speculative and Creative Approaches in HRI: Special Session at ICSR 2026 
-
-(Extended Deadline: 6 of March)
+# Speculative and Creative Approaches in HRI: Special Session at ICSR 2026 - (Extended Deadline: 06 of March)
 
 <img src="images/cropped-ICSR-2026-scaled-1.jpg" alt="Conference Logo" style="width:1000px; margin-right:15px; border-radius:8px;" />
 
